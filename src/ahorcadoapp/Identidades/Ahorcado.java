@@ -13,6 +13,7 @@ public class Ahorcado {
     private String[] vector;
     private int cantidadLetras;
     private int cantidadJugadas;
+    private String atrib1;
 
     public Ahorcado() {
     }
